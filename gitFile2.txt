@@ -7,4 +7,3 @@ Watermelon
 Banana
 Pear
 Strawberry
-Guava
