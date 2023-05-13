@@ -11,3 +11,4 @@ Bowling
 Judo
 Lawn Tennis
 Boxing
+Table Tennis
