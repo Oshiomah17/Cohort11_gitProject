@@ -10,3 +10,4 @@ Baseball
 Bowling
 Judo
 Lawn Tennis
+Boxing
